@@ -30,15 +30,15 @@ Here are some ideas to get you started:
 -->
 
 ### 🛠️ Technologies & Tools
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
