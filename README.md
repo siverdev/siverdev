@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My name is Kyrylo👋
+##👋
 - 🧑‍💻 I’m a **Full-Stack Web Developer** specializing in the **MERN stack (MongoDB, Express, React, Node.js)**.  
 - 💼 Actively looking for **projects and collaborations**, both freelance and long-term.  
 - 🌍 Open to joining **open-source projects** (especially Ukrainian initiatives and those related to the humanities).  
-- 🔒 Currently curious about **information security and digital humanities** while also deepening my knowledge in web development.
+- 🔒 Currently curious about **information security and digital humanities**.
 
 <!--
 ## 🧑‍💻 About Me
